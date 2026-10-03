@@ -1,10 +1,1 @@
-hi  
-```
-    ______  
-  /|      |\  
- //|◨__◧ |\\  
-///|______|\\\  
-    |    |  
-    |    |     
-```
-scratch x github when  
+changing my readme to be more professional be like:
