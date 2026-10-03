@@ -46,6 +46,7 @@ Tech Stack
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=DarthStorm&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=DarthStorm&include_all_commits=true&theme=dark_github)
 
 *no i do not use that much JS*
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DarthStorm&langs_count=9&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=DarthStorm&langs_count=9&theme=dark_github)
 
 ## Thanks for reading!
